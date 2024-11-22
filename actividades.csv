@@ -1,0 +1,1001 @@
+IdActividad,DescripcionActividad,TipoActividad,IdEstadoDelTiempo,TemperaturaRangoMin,TemperaturaRangoMax
+308,Casino,Deportiva,6,13,23
+377,Paseo en lancha,Deportiva,3,8,28
+118,Patinar,Deportiva,1,25,35
+181,Parque de diversiones,Deportiva,10,25,23
+136,Surf,Recreativa,9,23,20
+506,Bailar,Deportiva,2,-1,38
+802,Bailar,Educativa,3,22,35
+821,Ir de compras,Recreativa,10,23,23
+378,Casino,Cultural,2,26,25
+123,Caminar,Deportiva,5,3,39
+56,Montar a caballo,Recreativa,5,24,33
+649,Treking,Recreativa,9,-4,35
+111,Esquiar,Educativa,6,15,30
+255,Futbol,Recreativa,1,4,25
+387,Ir a la playa,Educativa,1,26,26
+613,Surf,Recreativa,8,24,34
+55,Surf,Deportiva,1,28,34
+559,Paseo en bicicleta,Recreativa,7,-7,36
+694,Ir a la playa,Cultural,2,10,22
+985,Ir de compras,Cultural,3,11,25
+962,Paseo en lancha,Cultural,2,29,20
+875,Esquiar,Cultural,10,-3,29
+597,Ir a la playa,Educativa,6,2,32
+620,Casino,Cultural,5,-8,39
+979,Treking,Educativa,5,4,26
+573,Esquiar,Educativa,1,-2,34
+979,Paseo en lancha,Recreativa,3,23,34
+449,Casino,Deportiva,6,26,22
+182,Casino,Cultural,3,29,35
+39,Buceo,Deportiva,9,7,20
+388,Buceo,Cultural,8,1,20
+519,Esquiar,Deportiva,4,19,35
+859,Futbol,Deportiva,4,-1,39
+273,Parque de diversiones,Educativa,7,-4,31
+618,Basketbol,Cultural,2,-9,28
+736,Esquiar,Recreativa,1,29,30
+735,Futbol,Recreativa,10,21,27
+418,Parque de diversiones,Cultural,4,27,30
+66,Bailar,Educativa,7,-3,33
+763,Montar a caballo,Deportiva,8,20,38
+976,Ir de compras,Educativa,10,-9,35
+255,Bailar,Recreativa,1,3,30
+268,Paseo en lancha,Recreativa,6,3,35
+706,Paseo en bicicleta,Educativa,7,10,26
+622,Montar a caballo,Educativa,10,-8,25
+463,Basketbol,Deportiva,2,-10,32
+235,Museo,Cultural,7,-6,34
+623,Bailar,Deportiva,1,-5,23
+268,Futbol,Deportiva,3,4,35
+438,Museo,Educativa,9,7,20
+547,Ir a la playa,Recreativa,9,-7,30
+275,Buceo,Cultural,6,9,39
+22,Museo,Cultural,9,27,32
+356,Buceo,Educativa,5,22,37
+403,Caminar,Deportiva,10,1,21
+743,Basketbol,Deportiva,4,17,30
+968,Paseo en lancha,Educativa,1,9,33
+364,Ir de compras,Recreativa,10,19,20
+187,Buceo,Recreativa,4,-3,37
+668,Bailar,Recreativa,9,22,25
+539,Museo,Recreativa,6,9,23
+550,Casino,Cultural,7,0,20
+544,Montar a caballo,Recreativa,2,23,36
+114,Museo,Recreativa,2,-9,20
+486,Museo,Cultural,3,30,32
+819,Ir de compras,Educativa,5,7,20
+281,Parque de diversiones,Educativa,3,22,23
+199,Ir de compras,Cultural,3,19,28
+736,Caminar,Cultural,9,-2,32
+417,Patinar,Deportiva,3,28,26
+472,Patinar,Educativa,2,-4,33
+105,Nadar,Educativa,6,28,24
+434,Bailar,Educativa,2,-1,23
+957,Bailar,Deportiva,5,18,37
+213,Surf,Recreativa,5,2,34
+879,Ir de compras,Cultural,7,24,27
+100,Paseo en lancha,Deportiva,5,-4,29
+662,Pescar,Cultural,10,-2,32
+662,Buceo,Cultural,5,-9,24
+490,Buceo,Educativa,5,21,38
+874,Esquiar,Cultural,8,3,26
+974,Treking,Deportiva,2,-8,39
+641,Ir a la playa,Educativa,4,2,29
+222,Basketbol,Deportiva,6,4,36
+135,Paseo en bicicleta,Cultural,2,21,40
+526,Basketbol,Cultural,7,21,28
+571,Surf,Recreativa,2,-7,40
+618,Surf,Deportiva,10,16,33
+105,Paseo en bicicleta,Recreativa,9,22,30
+901,Basketbol,Cultural,6,21,33
+698,Basketbol,Educativa,2,3,27
+571,Surf,Recreativa,2,4,28
+917,Ir a la playa,Educativa,5,16,30
+590,Nadar,Deportiva,4,8,36
+348,Esquiar,Recreativa,3,15,38
+46,Pescar,Educativa,3,13,24
+221,Bailar,Recreativa,9,-10,38
+741,Surf,Deportiva,7,14,32
+498,Montar a caballo,Recreativa,6,24,27
+570,Esquiar,Cultural,8,11,39
+685,Patinar,Educativa,7,13,39
+987,Patinar,Recreativa,2,-4,34
+167,Parque de diversiones,Deportiva,6,-6,26
+709,Caminar,Educativa,5,21,22
+852,Bailar,Educativa,9,-3,36
+956,Surf,Recreativa,7,12,36
+859,Montar a caballo,Deportiva,9,9,26
+338,Paseo en lancha,Educativa,8,6,22
+492,Tenis,Deportiva,5,21,26
+906,Paseo en lancha,Recreativa,1,13,32
+377,Patinar,Cultural,1,-10,27
+937,Nadar,Cultural,9,-1,27
+714,Caminar,Deportiva,5,4,29
+802,Casino,Cultural,5,-5,38
+85,Ir a la playa,Recreativa,9,28,33
+113,Nadar,Cultural,6,-7,25
+418,Patinar,Educativa,10,6,30
+451,Treking,Cultural,8,-3,30
+748,Parque de diversiones,Educativa,3,11,38
+380,Montar a caballo,Recreativa,1,11,25
+371,Treking,Cultural,3,17,21
+275,Basketbol,Deportiva,2,5,24
+914,Montar a caballo,Educativa,1,0,28
+629,Patinar,Recreativa,1,14,33
+431,Pescar,Cultural,7,29,39
+374,Basketbol,Cultural,6,25,23
+892,Parque de diversiones,Recreativa,8,-6,22
+21,Casino,Deportiva,7,26,35
+25,Esquiar,Recreativa,3,11,20
+355,Paseo en lancha,Educativa,1,20,33
+760,Casino,Deportiva,2,28,38
+270,Parque de diversiones,Recreativa,1,22,23
+960,Futbol,Recreativa,2,1,25
+983,Museo,Recreativa,2,15,40
+8,Bailar,Educativa,3,10,23
+15,Paseo en bicicleta,Cultural,5,6,21
+600,Montar a caballo,Recreativa,4,18,28
+235,Surf,Cultural,7,-1,28
+102,Ir a la playa,Educativa,1,-7,23
+21,Nadar,Recreativa,6,22,38
+937,Parque de diversiones,Educativa,8,-7,36
+43,Caminar,Deportiva,7,9,36
+93,Ir a la playa,Cultural,9,-7,26
+385,Caminar,Deportiva,9,-5,37
+327,Museo,Recreativa,3,24,24
+277,Ir de compras,Educativa,2,30,33
+845,Parque de diversiones,Educativa,10,13,27
+640,Patinar,Educativa,2,29,37
+687,Nadar,Educativa,7,-7,32
+657,Esquiar,Cultural,6,3,22
+402,Treking,Recreativa,9,-5,40
+611,Nadar,Cultural,1,14,20
+668,Tenis,Deportiva,2,-10,26
+101,Basketbol,Cultural,7,-1,29
+135,Tenis,Educativa,7,10,40
+976,Surf,Educativa,1,25,24
+77,Treking,Educativa,4,15,20
+490,Esquiar,Recreativa,3,-6,30
+710,Nadar,Cultural,4,-5,30
+360,Patinar,Educativa,9,0,33
+917,Ir de compras,Recreativa,6,27,36
+471,Caminar,Recreativa,2,21,31
+953,Parque de diversiones,Cultural,9,24,36
+690,Pescar,Educativa,2,4,22
+372,Parque de diversiones,Deportiva,9,20,26
+167,Casino,Deportiva,1,20,34
+528,Surf,Educativa,3,-8,26
+118,Parque de diversiones,Cultural,3,12,39
+779,Esquiar,Cultural,2,6,40
+818,Parque de diversiones,Deportiva,5,-9,27
+728,Ir a la playa,Cultural,10,-6,38
+490,Bailar,Recreativa,7,27,37
+582,Parque de diversiones,Recreativa,2,13,20
+658,Bailar,Deportiva,3,-4,24
+589,Ir a la playa,Cultural,3,2,34
+995,Museo,Cultural,8,20,40
+625,Caminar,Educativa,7,21,39
+654,Ir a la playa,Educativa,3,3,31
+81,Bailar,Cultural,3,-4,34
+39,Montar a caballo,Cultural,3,2,37
+249,Caminar,Deportiva,3,30,22
+768,Ir a la playa,Educativa,1,17,21
+600,Paseo en bicicleta,Recreativa,7,6,31
+837,Montar a caballo,Educativa,2,-5,26
+25,Esquiar,Cultural,5,-9,22
+656,Tenis,Cultural,8,13,34
+323,Tenis,Cultural,1,14,29
+568,Tenis,Recreativa,3,13,28
+192,Parque de diversiones,Recreativa,10,6,37
+268,Tenis,Deportiva,7,7,21
+275,Patinar,Cultural,2,2,33
+77,Ir de compras,Recreativa,1,15,24
+327,Futbol,Cultural,4,29,39
+371,Paseo en bicicleta,Deportiva,8,27,21
+54,Museo,Recreativa,6,6,24
+915,Pescar,Cultural,5,14,26
+272,Caminar,Deportiva,4,-2,23
+203,Nadar,Recreativa,1,16,40
+172,Ir de compras,Recreativa,3,26,33
+41,Basketbol,Cultural,3,-10,39
+668,Paseo en bicicleta,Recreativa,9,22,31
+343,Ir de compras,Recreativa,8,22,28
+744,Parque de diversiones,Cultural,9,13,28
+992,Bailar,Cultural,1,25,34
+527,Caminar,Cultural,3,13,35
+621,Bailar,Recreativa,8,23,27
+647,Treking,Educativa,5,28,35
+659,Pescar,Cultural,4,-5,23
+383,Montar a caballo,Cultural,8,5,22
+131,Tenis,Recreativa,9,14,20
+767,Esquiar,Recreativa,1,27,20
+882,Bailar,Deportiva,9,-3,28
+265,Bailar,Deportiva,6,2,20
+690,Ir a la playa,Deportiva,6,25,21
+678,Ir de compras,Educativa,1,20,38
+38,Paseo en bicicleta,Cultural,6,-8,31
+525,Buceo,Recreativa,4,6,20
+969,Esquiar,Cultural,1,26,29
+792,Casino,Recreativa,10,25,23
+234,Patinar,Recreativa,3,1,28
+567,Tenis,Recreativa,7,15,21
+317,Esquiar,Educativa,2,2,30
+208,Paseo en bicicleta,Deportiva,2,12,23
+648,Nadar,Educativa,4,30,22
+777,Ir de compras,Cultural,5,4,35
+596,Tenis,Deportiva,6,26,33
+816,Futbol,Recreativa,1,16,32
+7,Esquiar,Deportiva,5,25,38
+564,Basketbol,Cultural,7,-4,28
+663,Casino,Recreativa,3,1,23
+760,Parque de diversiones,Recreativa,2,8,23
+996,Paseo en bicicleta,Deportiva,7,10,28
+734,Paseo en bicicleta,Cultural,10,11,34
+90,Paseo en bicicleta,Recreativa,5,10,26
+615,Museo,Educativa,2,27,40
+785,Caminar,Recreativa,2,19,38
+881,Museo,Recreativa,7,-9,32
+427,Paseo en bicicleta,Recreativa,4,3,39
+824,Treking,Deportiva,8,12,34
+41,Paseo en bicicleta,Educativa,2,29,32
+78,Patinar,Recreativa,5,4,30
+380,Esquiar,Recreativa,2,20,24
+452,Patinar,Recreativa,10,25,39
+176,Parque de diversiones,Recreativa,6,2,22
+53,Basketbol,Recreativa,8,-6,33
+202,Basketbol,Deportiva,2,16,30
+102,Surf,Recreativa,2,11,25
+661,Treking,Cultural,2,16,39
+219,Basketbol,Educativa,10,-6,23
+294,Tenis,Recreativa,10,-8,24
+264,Ir de compras,Deportiva,10,7,26
+218,Treking,Deportiva,2,27,21
+271,Casino,Recreativa,1,-4,23
+236,Paseo en bicicleta,Deportiva,10,6,23
+198,Casino,Cultural,6,-2,37
+130,Basketbol,Recreativa,10,29,28
+527,Surf,Deportiva,10,18,35
+561,Nadar,Deportiva,5,25,38
+351,Esquiar,Educativa,6,4,27
+444,Treking,Deportiva,5,-6,40
+265,Caminar,Recreativa,2,24,22
+170,Parque de diversiones,Educativa,2,6,23
+101,Futbol,Educativa,1,12,25
+773,Caminar,Cultural,5,10,31
+1,Pescar,Educativa,4,20,40
+231,Surf,Deportiva,9,25,29
+982,Casino,Educativa,6,11,27
+256,Paseo en bicicleta,Educativa,8,6,20
+108,Ir de compras,Recreativa,9,12,32
+195,Futbol,Educativa,7,27,35
+36,Casino,Deportiva,4,20,31
+73,Paseo en lancha,Cultural,5,13,35
+662,Montar a caballo,Recreativa,5,-8,25
+898,Bailar,Recreativa,2,-1,40
+18,Montar a caballo,Recreativa,5,11,38
+969,Futbol,Recreativa,8,3,24
+257,Patinar,Deportiva,6,23,27
+779,Caminar,Cultural,10,-8,40
+585,Buceo,Cultural,10,-7,34
+381,Pescar,Educativa,10,21,32
+642,Surf,Recreativa,4,14,40
+866,Paseo en bicicleta,Deportiva,6,20,26
+83,Nadar,Educativa,6,22,23
+876,Ir a la playa,Deportiva,6,30,38
+992,Montar a caballo,Cultural,10,9,38
+278,Treking,Recreativa,9,15,22
+709,Paseo en bicicleta,Cultural,1,-10,22
+979,Treking,Cultural,5,15,22
+303,Ir a la playa,Cultural,1,-2,31
+635,Basketbol,Cultural,9,16,22
+846,Patinar,Deportiva,8,-8,29
+857,Basketbol,Deportiva,9,16,34
+351,Treking,Deportiva,5,29,38
+301,Casino,Educativa,9,24,31
+160,Pescar,Deportiva,6,2,37
+799,Bailar,Deportiva,2,17,22
+688,Ir a la playa,Recreativa,3,25,37
+529,Esquiar,Educativa,4,19,26
+734,Treking,Recreativa,6,18,28
+643,Ir a la playa,Cultural,6,3,39
+10,Paseo en bicicleta,Recreativa,9,-3,31
+133,Basketbol,Cultural,9,19,40
+70,Treking,Educativa,6,10,27
+463,Basketbol,Cultural,9,10,39
+541,Futbol,Recreativa,6,11,26
+163,Museo,Recreativa,1,9,37
+406,Caminar,Cultural,3,16,35
+911,Montar a caballo,Cultural,1,5,20
+73,Paseo en bicicleta,Cultural,10,23,32
+618,Paseo en lancha,Cultural,5,16,38
+544,Montar a caballo,Cultural,9,0,29
+101,Surf,Educativa,7,14,39
+971,Paseo en bicicleta,Recreativa,3,6,39
+327,Ir de compras,Cultural,10,-10,39
+447,Basketbol,Cultural,9,-9,21
+426,Treking,Educativa,2,-3,26
+344,Treking,Cultural,9,13,34
+624,Nadar,Educativa,4,-6,34
+179,Caminar,Educativa,1,24,29
+148,Bailar,Educativa,1,11,33
+845,Museo,Deportiva,2,17,40
+769,Surf,Cultural,10,-8,29
+610,Ir de compras,Recreativa,6,-9,30
+949,Ir de compras,Deportiva,9,25,34
+386,Patinar,Cultural,10,13,28
+18,Futbol,Deportiva,9,24,22
+343,Bailar,Deportiva,4,1,38
+690,Surf,Recreativa,4,14,32
+175,Caminar,Deportiva,10,-10,33
+336,Bailar,Cultural,2,29,23
+5,Casino,Educativa,3,-5,25
+207,Caminar,Deportiva,6,8,32
+255,Ir de compras,Recreativa,4,28,29
+457,Parque de diversiones,Deportiva,6,26,32
+746,Ir a la playa,Deportiva,1,-5,21
+130,Caminar,Recreativa,7,23,31
+416,Paseo en lancha,Cultural,5,-7,29
+421,Buceo,Educativa,3,30,27
+251,Nadar,Educativa,4,13,33
+698,Casino,Cultural,10,30,24
+96,Paseo en bicicleta,Educativa,9,24,30
+15,Pescar,Cultural,8,17,22
+762,Caminar,Educativa,1,15,20
+215,Patinar,Deportiva,1,18,32
+13,Museo,Cultural,2,20,39
+295,Nadar,Educativa,10,0,24
+553,Nadar,Deportiva,6,22,21
+962,Paseo en bicicleta,Educativa,4,3,21
+161,Patinar,Recreativa,7,-6,29
+211,Montar a caballo,Deportiva,5,12,25
+180,Paseo en bicicleta,Cultural,1,19,39
+891,Casino,Deportiva,7,-3,34
+551,Surf,Cultural,10,16,36
+499,Buceo,Recreativa,3,26,30
+325,Ir de compras,Cultural,5,11,40
+950,Basketbol,Educativa,6,14,37
+330,Esquiar,Educativa,8,22,35
+573,Ir a la playa,Cultural,7,19,38
+955,Nadar,Deportiva,5,-10,29
+755,Treking,Recreativa,10,12,27
+494,Ir a la playa,Educativa,2,12,23
+184,Montar a caballo,Recreativa,7,14,28
+227,Montar a caballo,Cultural,10,17,24
+89,Buceo,Deportiva,5,4,38
+650,Surf,Recreativa,1,-6,27
+425,Buceo,Recreativa,7,-3,39
+729,Patinar,Recreativa,7,24,29
+251,Museo,Educativa,7,9,36
+671,Paseo en lancha,Educativa,3,29,30
+249,Casino,Recreativa,8,10,29
+693,Montar a caballo,Cultural,4,6,39
+679,Tenis,Cultural,6,15,40
+585,Bailar,Deportiva,4,-1,32
+178,Paseo en lancha,Recreativa,6,24,27
+427,Tenis,Deportiva,3,20,33
+950,Museo,Recreativa,8,24,25
+940,Treking,Educativa,9,17,25
+908,Tenis,Deportiva,8,12,25
+850,Tenis,Educativa,1,12,31
+974,Caminar,Cultural,1,-2,23
+31,Tenis,Recreativa,9,29,26
+306,Nadar,Cultural,8,-8,37
+772,Ir de compras,Deportiva,9,-7,30
+730,Montar a caballo,Deportiva,8,12,30
+495,Parque de diversiones,Recreativa,9,1,35
+174,Parque de diversiones,Educativa,6,17,29
+832,Buceo,Cultural,10,-8,34
+168,Patinar,Deportiva,4,22,30
+666,Buceo,Recreativa,6,26,40
+6,Surf,Cultural,7,-7,28
+122,Pescar,Recreativa,8,8,34
+647,Ir de compras,Educativa,4,17,32
+66,Ir a la playa,Recreativa,4,-9,30
+376,Paseo en lancha,Educativa,1,15,22
+666,Pescar,Educativa,1,5,27
+64,Patinar,Recreativa,3,-1,33
+396,Paseo en lancha,Cultural,10,27,39
+28,Ir de compras,Recreativa,9,10,29
+354,Esquiar,Cultural,1,20,23
+992,Parque de diversiones,Recreativa,4,-7,32
+622,Patinar,Educativa,10,30,31
+901,Bailar,Deportiva,8,26,34
+567,Paseo en bicicleta,Educativa,9,-7,30
+402,Pescar,Cultural,5,-2,20
+968,Futbol,Educativa,10,22,22
+435,Nadar,Cultural,5,15,36
+378,Futbol,Educativa,2,2,20
+529,Nadar,Educativa,8,20,29
+782,Paseo en bicicleta,Deportiva,4,17,40
+275,Tenis,Educativa,1,23,24
+843,Basketbol,Recreativa,5,11,21
+853,Caminar,Deportiva,10,11,31
+160,Futbol,Educativa,6,-5,23
+207,Caminar,Cultural,7,26,23
+350,Pescar,Educativa,2,4,34
+409,Caminar,Recreativa,6,19,34
+348,Paseo en bicicleta,Deportiva,1,-1,30
+721,Futbol,Deportiva,7,11,33
+161,Casino,Recreativa,9,3,30
+62,Ir de compras,Educativa,5,22,22
+620,Esquiar,Recreativa,10,-3,22
+798,Ir de compras,Educativa,7,28,27
+230,Tenis,Deportiva,8,-1,40
+940,Parque de diversiones,Educativa,10,-2,34
+135,Museo,Deportiva,1,8,29
+223,Paseo en lancha,Cultural,8,28,20
+215,Bailar,Cultural,1,-6,28
+565,Ir de compras,Recreativa,3,2,29
+719,Montar a caballo,Cultural,2,-2,31
+962,Paseo en lancha,Cultural,1,13,34
+316,Bailar,Deportiva,1,11,37
+250,Parque de diversiones,Deportiva,1,30,38
+836,Paseo en bicicleta,Cultural,6,8,26
+745,Bailar,Educativa,4,12,28
+678,Parque de diversiones,Educativa,2,11,33
+896,Montar a caballo,Educativa,9,10,28
+742,Ir de compras,Deportiva,6,15,20
+766,Caminar,Recreativa,1,-9,32
+188,Futbol,Cultural,9,0,24
+810,Casino,Deportiva,5,0,30
+588,Ir de compras,Recreativa,8,-8,34
+203,Ir a la playa,Deportiva,4,25,35
+485,Surf,Deportiva,2,-1,37
+686,Ir a la playa,Cultural,2,27,33
+425,Montar a caballo,Deportiva,8,14,32
+453,Ir a la playa,Recreativa,4,17,34
+958,Treking,Cultural,9,16,37
+328,Buceo,Recreativa,5,18,36
+120,Basketbol,Educativa,7,-8,36
+928,Parque de diversiones,Cultural,1,20,39
+358,Paseo en lancha,Educativa,2,-2,35
+632,Museo,Cultural,1,7,27
+418,Tenis,Deportiva,1,18,23
+435,Paseo en bicicleta,Educativa,2,10,38
+820,Paseo en bicicleta,Recreativa,8,16,25
+425,Museo,Recreativa,4,-5,38
+256,Futbol,Recreativa,5,29,29
+415,Basketbol,Educativa,5,5,33
+380,Montar a caballo,Deportiva,5,22,35
+431,Casino,Recreativa,9,29,21
+814,Montar a caballo,Deportiva,2,5,40
+430,Bailar,Recreativa,9,17,34
+481,Nadar,Educativa,3,10,28
+905,Surf,Recreativa,6,14,30
+786,Patinar,Recreativa,5,16,40
+652,Tenis,Cultural,5,14,32
+316,Patinar,Educativa,3,-2,39
+548,Nadar,Deportiva,1,14,40
+790,Museo,Deportiva,5,-4,29
+464,Paseo en lancha,Recreativa,10,12,40
+106,Buceo,Educativa,8,5,28
+705,Basketbol,Cultural,7,-10,22
+624,Ir de compras,Recreativa,3,2,32
+765,Pescar,Educativa,7,-6,24
+664,Montar a caballo,Educativa,3,-7,36
+868,Bailar,Educativa,3,1,28
+858,Bailar,Educativa,5,8,37
+857,Museo,Recreativa,3,16,36
+970,Surf,Deportiva,2,-3,30
+349,Casino,Deportiva,6,25,26
+499,Montar a caballo,Cultural,8,6,36
+541,Museo,Deportiva,8,-1,32
+835,Pescar,Deportiva,2,-4,27
+59,Parque de diversiones,Recreativa,6,15,25
+368,Montar a caballo,Deportiva,2,23,23
+953,Casino,Cultural,4,18,30
+643,Museo,Deportiva,6,4,30
+699,Bailar,Deportiva,4,3,30
+837,Ir a la playa,Educativa,3,15,30
+890,Caminar,Deportiva,5,9,37
+474,Futbol,Cultural,8,9,25
+67,Futbol,Deportiva,5,21,32
+742,Tenis,Cultural,9,28,30
+143,Treking,Deportiva,3,24,30
+330,Basketbol,Educativa,2,7,24
+660,Basketbol,Deportiva,4,13,32
+18,Bailar,Deportiva,5,-5,34
+232,Ir de compras,Recreativa,7,15,38
+427,Esquiar,Cultural,6,7,38
+465,Buceo,Educativa,6,29,28
+860,Ir a la playa,Educativa,6,10,38
+652,Paseo en bicicleta,Recreativa,2,3,38
+471,Pescar,Educativa,3,9,20
+265,Parque de diversiones,Cultural,6,26,39
+447,Montar a caballo,Deportiva,4,24,35
+584,Patinar,Deportiva,7,26,36
+155,Paseo en bicicleta,Recreativa,5,4,28
+457,Patinar,Cultural,6,9,38
+163,Ir de compras,Recreativa,6,10,38
+637,Patinar,Deportiva,6,7,26
+934,Treking,Recreativa,1,-6,21
+612,Parque de diversiones,Cultural,3,25,29
+610,Treking,Recreativa,5,20,24
+54,Montar a caballo,Educativa,10,13,21
+848,Bailar,Cultural,10,-6,35
+865,Patinar,Educativa,6,27,38
+513,Tenis,Educativa,7,4,37
+963,Tenis,Cultural,1,8,30
+1,Nadar,Recreativa,3,18,34
+647,Parque de diversiones,Deportiva,8,20,27
+468,Surf,Cultural,2,30,36
+257,Patinar,Recreativa,2,-2,33
+878,Parque de diversiones,Cultural,8,23,23
+455,Pescar,Deportiva,8,-3,39
+992,Paseo en lancha,Recreativa,7,0,27
+385,Paseo en lancha,Recreativa,4,8,39
+626,Futbol,Cultural,1,22,27
+364,Bailar,Cultural,8,7,39
+945,Esquiar,Deportiva,7,2,37
+25,Parque de diversiones,Deportiva,7,13,25
+95,Caminar,Educativa,5,-10,32
+444,Paseo en lancha,Deportiva,10,14,25
+291,Parque de diversiones,Educativa,5,23,26
+327,Treking,Cultural,10,8,37
+677,Pescar,Educativa,9,2,33
+271,Buceo,Cultural,9,-3,26
+960,Ir de compras,Recreativa,4,-6,28
+492,Esquiar,Deportiva,8,-3,38
+373,Treking,Deportiva,5,21,22
+672,Patinar,Recreativa,8,23,23
+512,Patinar,Educativa,8,19,36
+906,Bailar,Recreativa,9,29,37
+201,Montar a caballo,Recreativa,5,-5,23
+488,Buceo,Deportiva,7,10,24
+771,Ir de compras,Deportiva,10,29,38
+150,Ir de compras,Educativa,6,18,32
+977,Casino,Deportiva,4,-3,38
+371,Caminar,Educativa,5,26,32
+928,Parque de diversiones,Cultural,3,9,33
+123,Casino,Deportiva,4,10,40
+41,Bailar,Cultural,5,4,38
+854,Museo,Cultural,2,24,35
+601,Ir de compras,Cultural,2,28,33
+63,Montar a caballo,Recreativa,4,6,26
+928,Montar a caballo,Educativa,3,1,25
+303,Basketbol,Cultural,8,30,33
+925,Treking,Educativa,9,3,33
+386,Surf,Cultural,2,-7,22
+832,Ir de compras,Cultural,10,27,35
+218,Treking,Cultural,8,8,35
+542,Treking,Deportiva,4,21,39
+757,Treking,Cultural,9,28,28
+396,Surf,Educativa,10,1,25
+761,Montar a caballo,Cultural,7,-5,32
+20,Paseo en bicicleta,Recreativa,4,12,24
+854,Ir de compras,Recreativa,2,11,30
+308,Esquiar,Cultural,8,15,35
+172,Ir a la playa,Cultural,5,-3,29
+910,Esquiar,Deportiva,3,16,32
+234,Nadar,Educativa,7,24,24
+200,Esquiar,Deportiva,2,8,35
+366,Tenis,Educativa,1,-4,34
+790,Casino,Cultural,8,19,20
+834,Montar a caballo,Cultural,4,-6,30
+190,Parque de diversiones,Recreativa,4,4,26
+461,Futbol,Cultural,9,6,37
+209,Nadar,Recreativa,5,12,39
+832,Caminar,Deportiva,7,13,40
+899,Ir a la playa,Deportiva,2,24,37
+666,Bailar,Cultural,10,15,35
+377,Tenis,Deportiva,9,8,21
+97,Tenis,Educativa,5,15,28
+423,Bailar,Recreativa,3,27,36
+314,Casino,Cultural,3,3,34
+514,Nadar,Deportiva,4,-3,36
+546,Paseo en lancha,Educativa,6,22,33
+985,Paseo en bicicleta,Educativa,3,19,36
+340,Montar a caballo,Deportiva,6,17,38
+774,Parque de diversiones,Cultural,2,20,20
+219,Caminar,Cultural,7,1,31
+848,Museo,Educativa,7,-1,26
+737,Basketbol,Deportiva,9,24,32
+402,Nadar,Cultural,9,-5,24
+168,Tenis,Deportiva,7,6,36
+142,Bailar,Deportiva,5,17,25
+985,Patinar,Deportiva,6,17,38
+841,Bailar,Educativa,9,18,35
+765,Ir de compras,Deportiva,10,24,31
+352,Surf,Deportiva,9,22,29
+8,Caminar,Educativa,1,-3,36
+193,Caminar,Cultural,9,7,33
+915,Caminar,Recreativa,4,19,34
+645,Futbol,Cultural,8,2,24
+783,Pescar,Recreativa,2,24,27
+723,Parque de diversiones,Cultural,6,-4,38
+385,Tenis,Recreativa,5,16,24
+709,Pescar,Educativa,6,20,29
+445,Ir de compras,Deportiva,9,16,30
+688,Buceo,Deportiva,1,-3,35
+725,Casino,Recreativa,5,-4,31
+682,Futbol,Cultural,5,29,27
+847,Surf,Educativa,2,-2,33
+540,Patinar,Deportiva,5,26,26
+785,Futbol,Educativa,3,20,32
+748,Museo,Deportiva,3,10,34
+521,Buceo,Cultural,9,10,31
+721,Esquiar,Recreativa,8,-10,25
+868,Nadar,Cultural,3,4,36
+626,Paseo en bicicleta,Deportiva,7,2,24
+609,Esquiar,Educativa,10,22,38
+760,Museo,Cultural,3,-10,39
+255,Museo,Educativa,4,22,22
+407,Parque de diversiones,Deportiva,8,-1,35
+782,Nadar,Educativa,5,9,30
+911,Esquiar,Educativa,4,-3,22
+535,Caminar,Recreativa,6,4,35
+465,Esquiar,Educativa,8,29,26
+270,Surf,Cultural,5,22,27
+51,Museo,Deportiva,9,21,30
+543,Bailar,Deportiva,9,20,21
+522,Ir de compras,Deportiva,9,11,39
+750,Caminar,Deportiva,2,21,22
+945,Museo,Cultural,9,21,37
+449,Casino,Deportiva,9,26,26
+345,Esquiar,Cultural,3,30,35
+212,Patinar,Recreativa,8,-8,24
+723,Casino,Educativa,8,18,20
+843,Ir a la playa,Cultural,9,27,40
+274,Paseo en lancha,Recreativa,5,10,24
+140,Paseo en bicicleta,Cultural,2,20,26
+606,Museo,Cultural,6,10,38
+267,Bailar,Cultural,1,14,27
+217,Pescar,Recreativa,3,26,38
+823,Buceo,Educativa,7,4,29
+529,Museo,Deportiva,8,20,24
+535,Esquiar,Educativa,3,-3,36
+934,Paseo en lancha,Educativa,7,7,26
+488,Nadar,Educativa,10,1,27
+608,Basketbol,Educativa,9,-2,38
+327,Casino,Recreativa,10,29,36
+213,Ir de compras,Recreativa,9,11,28
+935,Pescar,Educativa,6,29,29
+964,Bailar,Cultural,10,14,39
+83,Museo,Recreativa,6,21,24
+307,Pescar,Educativa,3,16,30
+201,Caminar,Cultural,8,5,33
+775,Surf,Deportiva,8,13,20
+764,Nadar,Cultural,7,13,31
+480,Pescar,Deportiva,8,13,21
+398,Patinar,Cultural,6,-9,25
+595,Futbol,Deportiva,1,26,34
+273,Bailar,Educativa,10,28,20
+319,Esquiar,Deportiva,6,13,37
+633,Paseo en bicicleta,Recreativa,7,-1,27
+378,Nadar,Deportiva,2,-6,30
+336,Parque de diversiones,Deportiva,6,-2,26
+651,Montar a caballo,Deportiva,4,17,35
+517,Ir de compras,Recreativa,5,0,25
+578,Pescar,Cultural,2,1,35
+731,Caminar,Deportiva,5,-6,29
+843,Montar a caballo,Cultural,2,0,33
+879,Bailar,Educativa,4,14,30
+956,Paseo en lancha,Deportiva,1,22,37
+767,Treking,Recreativa,4,15,38
+324,Esquiar,Educativa,1,8,36
+981,Patinar,Deportiva,10,-6,23
+889,Paseo en bicicleta,Deportiva,8,8,29
+514,Bailar,Educativa,3,18,21
+993,Nadar,Recreativa,1,1,20
+567,Casino,Deportiva,1,-4,25
+864,Patinar,Educativa,10,-9,21
+507,Bailar,Recreativa,10,21,39
+743,Patinar,Educativa,7,14,31
+903,Ir de compras,Cultural,5,24,28
+920,Basketbol,Deportiva,7,17,27
+835,Basketbol,Cultural,9,-7,20
+611,Treking,Recreativa,5,15,36
+782,Bailar,Recreativa,7,3,31
+25,Montar a caballo,Cultural,6,17,26
+645,Pescar,Recreativa,5,25,27
+747,Basketbol,Educativa,4,7,24
+648,Parque de diversiones,Deportiva,2,-4,26
+60,Ir a la playa,Cultural,5,27,23
+53,Buceo,Cultural,9,11,32
+694,Casino,Educativa,7,-1,35
+755,Museo,Recreativa,1,21,38
+477,Ir a la playa,Recreativa,4,11,33
+710,Esquiar,Educativa,1,-9,26
+847,Parque de diversiones,Educativa,3,-10,30
+681,Pescar,Deportiva,10,12,38
+738,Casino,Deportiva,5,-10,39
+914,Buceo,Educativa,1,30,40
+128,Nadar,Cultural,3,-3,40
+246,Buceo,Educativa,3,21,31
+328,Parque de diversiones,Educativa,2,8,30
+145,Ir a la playa,Educativa,6,12,21
+588,Paseo en lancha,Recreativa,4,14,26
+799,Surf,Deportiva,1,-8,31
+398,Buceo,Recreativa,1,29,26
+522,Paseo en lancha,Educativa,6,19,20
+363,Pescar,Recreativa,1,17,23
+89,Montar a caballo,Cultural,3,10,39
+433,Patinar,Cultural,3,15,25
+326,Nadar,Deportiva,7,4,20
+251,Ir de compras,Deportiva,8,-4,38
+19,Tenis,Cultural,3,-1,40
+664,Pescar,Deportiva,9,3,37
+233,Treking,Deportiva,8,4,24
+777,Museo,Deportiva,10,28,33
+384,Patinar,Deportiva,5,16,23
+290,Montar a caballo,Deportiva,5,-5,30
+123,Pescar,Cultural,10,1,20
+881,Bailar,Recreativa,9,28,27
+999,Bailar,Deportiva,4,-7,35
+157,Buceo,Deportiva,4,-9,25
+474,Patinar,Recreativa,2,27,29
+759,Bailar,Recreativa,3,12,25
+873,Montar a caballo,Educativa,3,13,39
+978,Surf,Cultural,2,23,26
+684,Ir a la playa,Deportiva,6,7,21
+424,Paseo en bicicleta,Educativa,4,-4,22
+6,Ir de compras,Educativa,3,26,39
+147,Museo,Educativa,2,-7,38
+417,Futbol,Cultural,9,29,40
+971,Ir de compras,Recreativa,10,22,26
+609,Nadar,Deportiva,3,25,24
+589,Basketbol,Deportiva,3,2,25
+257,Casino,Educativa,2,14,34
+912,Futbol,Deportiva,5,11,33
+887,Patinar,Recreativa,6,26,22
+331,Futbol,Recreativa,7,10,24
+612,Surf,Educativa,8,13,29
+735,Ir de compras,Cultural,6,-10,26
+568,Pescar,Cultural,10,-8,39
+298,Ir a la playa,Recreativa,7,11,20
+688,Paseo en lancha,Cultural,8,8,22
+570,Paseo en bicicleta,Cultural,8,12,37
+58,Esquiar,Cultural,1,-9,21
+613,Buceo,Educativa,2,-4,21
+917,Nadar,Cultural,1,26,30
+893,Caminar,Cultural,5,23,31
+547,Patinar,Deportiva,10,20,32
+384,Ir de compras,Deportiva,2,12,26
+564,Futbol,Recreativa,5,26,26
+421,Nadar,Educativa,1,-1,33
+944,Surf,Educativa,8,2,24
+68,Parque de diversiones,Cultural,2,25,30
+742,Bailar,Cultural,9,23,36
+600,Buceo,Cultural,2,-9,23
+4,Paseo en lancha,Educativa,10,-3,28
+773,Treking,Educativa,6,22,39
+485,Treking,Cultural,8,18,21
+617,Ir a la playa,Deportiva,1,0,34
+460,Ir a la playa,Deportiva,5,24,33
+609,Esquiar,Cultural,9,-1,37
+773,Caminar,Recreativa,8,10,21
+87,Surf,Recreativa,3,8,38
+49,Bailar,Cultural,8,26,30
+114,Esquiar,Deportiva,1,13,30
+353,Paseo en bicicleta,Recreativa,1,7,36
+572,Ir de compras,Recreativa,10,22,28
+670,Basketbol,Educativa,2,29,31
+850,Casino,Deportiva,3,17,36
+365,Patinar,Cultural,9,26,25
+25,Treking,Deportiva,3,16,35
+149,Surf,Recreativa,7,17,25
+53,Esquiar,Cultural,7,26,35
+63,Paseo en bicicleta,Recreativa,3,7,40
+414,Patinar,Recreativa,10,-8,21
+148,Patinar,Recreativa,3,25,29
+373,Surf,Recreativa,10,28,35
+539,Paseo en bicicleta,Cultural,5,-6,24
+475,Casino,Educativa,4,0,40
+172,Buceo,Educativa,2,20,29
+869,Bailar,Educativa,6,1,24
+90,Ir a la playa,Educativa,7,-1,25
+977,Bailar,Recreativa,7,21,34
+854,Nadar,Educativa,9,23,35
+849,Ir a la playa,Recreativa,5,30,34
+489,Museo,Recreativa,8,12,31
+89,Surf,Educativa,10,-3,33
+375,Ir de compras,Educativa,8,7,29
+645,Surf,Recreativa,1,19,32
+839,Ir de compras,Recreativa,1,9,37
+861,Esquiar,Deportiva,10,-3,29
+37,Esquiar,Cultural,4,-5,28
+710,Paseo en bicicleta,Deportiva,9,24,33
+411,Montar a caballo,Recreativa,10,9,28
+551,Treking,Educativa,5,22,33
+671,Paseo en lancha,Educativa,2,22,25
+987,Treking,Recreativa,10,27,33
+790,Esquiar,Cultural,2,23,26
+530,Futbol,Educativa,3,16,22
+252,Basketbol,Cultural,7,7,33
+700,Montar a caballo,Cultural,7,2,30
+614,Treking,Educativa,3,-1,22
+78,Casino,Deportiva,8,14,33
+428,Futbol,Cultural,9,20,40
+234,Buceo,Recreativa,3,24,40
+56,Paseo en lancha,Deportiva,10,-6,20
+509,Tenis,Educativa,10,8,33
+327,Buceo,Recreativa,4,2,20
+242,Casino,Recreativa,2,30,37
+664,Parque de diversiones,Educativa,7,16,23
+509,Paseo en lancha,Recreativa,1,-4,20
+687,Casino,Educativa,10,23,37
+852,Museo,Educativa,2,-7,24
+363,Treking,Deportiva,1,13,32
+645,Ir a la playa,Cultural,9,8,37
+616,Paseo en lancha,Cultural,6,4,35
+338,Montar a caballo,Cultural,4,26,34
+316,Montar a caballo,Educativa,3,12,35
+971,Buceo,Recreativa,4,3,20
+870,Esquiar,Cultural,5,12,23
+41,Casino,Cultural,5,28,22
+350,Bailar,Deportiva,1,22,32
+955,Parque de diversiones,Deportiva,6,24,40
+415,Buceo,Cultural,7,-5,35
+45,Pescar,Recreativa,10,17,31
+828,Patinar,Recreativa,7,27,24
+274,Paseo en lancha,Deportiva,10,16,34
+596,Treking,Cultural,5,2,33
+825,Basketbol,Cultural,3,1,29
+683,Buceo,Deportiva,9,18,38
+623,Parque de diversiones,Recreativa,7,17,27
+461,Buceo,Educativa,4,23,28
+9,Nadar,Cultural,4,22,21
+858,Futbol,Deportiva,10,9,40
+103,Surf,Recreativa,2,-10,24
+58,Bailar,Educativa,5,6,29
+117,Esquiar,Recreativa,8,30,37
+931,Pescar,Educativa,6,12,36
+101,Montar a caballo,Recreativa,2,0,28
+411,Bailar,Deportiva,2,-1,38
+943,Basketbol,Educativa,4,27,32
+643,Pescar,Cultural,5,4,30
+597,Bailar,Educativa,2,22,24
+995,Montar a caballo,Deportiva,7,7,25
+518,Caminar,Recreativa,4,13,23
+455,Paseo en lancha,Deportiva,1,17,21
+912,Ir de compras,Cultural,6,-2,40
+723,Tenis,Educativa,2,0,35
+195,Paseo en bicicleta,Cultural,7,3,25
+698,Pescar,Deportiva,8,10,38
+508,Caminar,Educativa,8,19,34
+215,Paseo en bicicleta,Deportiva,6,24,37
+571,Tenis,Deportiva,4,25,31
+747,Pescar,Educativa,5,19,27
+558,Surf,Recreativa,3,18,39
+205,Pescar,Recreativa,8,-5,32
+573,Ir de compras,Cultural,1,-9,38
+400,Caminar,Recreativa,9,30,38
+324,Futbol,Recreativa,3,-9,27
+772,Pescar,Educativa,7,15,22
+765,Bailar,Cultural,2,4,38
+306,Paseo en bicicleta,Educativa,10,29,33
+257,Esquiar,Deportiva,10,27,28
+701,Montar a caballo,Deportiva,3,15,25
+528,Futbol,Cultural,9,17,40
+487,Parque de diversiones,Educativa,9,25,36
+144,Casino,Educativa,3,3,26
+60,Esquiar,Recreativa,1,-7,20
+430,Paseo en bicicleta,Cultural,6,-7,40
+246,Bailar,Educativa,3,23,27
+963,Pescar,Educativa,10,23,27
+153,Museo,Recreativa,2,0,24
+155,Surf,Cultural,2,29,36
+47,Nadar,Educativa,6,-4,38
+739,Patinar,Educativa,10,4,32
+324,Futbol,Deportiva,2,4,27
+553,Caminar,Educativa,5,7,33
+668,Ir de compras,Deportiva,1,5,30
+56,Parque de diversiones,Cultural,2,23,38
+708,Patinar,Educativa,9,8,34
+511,Buceo,Recreativa,9,14,30
+495,Bailar,Recreativa,5,-10,40
+241,Paseo en bicicleta,Educativa,8,14,25
+878,Surf,Cultural,4,-1,27
+410,Bailar,Cultural,3,13,28
+860,Buceo,Cultural,3,2,34
+113,Museo,Cultural,6,12,21
+295,Caminar,Educativa,3,11,40
+246,Paseo en lancha,Educativa,1,26,38
+868,Caminar,Cultural,6,9,22
+659,Pescar,Deportiva,8,17,20
+118,Museo,Recreativa,7,23,25
+249,Esquiar,Educativa,6,-8,28
+377,Paseo en lancha,Recreativa,8,22,24
+313,Patinar,Deportiva,5,17,21
+155,Esquiar,Cultural,4,30,34
+461,Buceo,Deportiva,8,9,26
+696,Treking,Deportiva,8,10,31
+132,Casino,Cultural,1,27,33
+735,Tenis,Educativa,1,30,23
+935,Basketbol,Deportiva,9,-4,38
+223,Montar a caballo,Cultural,3,15,39
+899,Paseo en lancha,Cultural,10,8,39
+957,Treking,Cultural,8,27,31
+909,Ir a la playa,Recreativa,1,27,25
+681,Ir de compras,Recreativa,8,-8,37
+567,Montar a caballo,Deportiva,9,-9,27
+98,Buceo,Educativa,4,4,33
+212,Museo,Educativa,7,12,39
+883,Caminar,Cultural,10,30,23
+797,Esquiar,Cultural,5,13,28
+156,Futbol,Educativa,9,14,36
+801,Paseo en lancha,Deportiva,2,19,33
+60,Pescar,Recreativa,6,16,40
+432,Buceo,Recreativa,5,-5,40
+454,Nadar,Recreativa,7,-6,23
+359,Esquiar,Recreativa,4,6,32
+97,Esquiar,Recreativa,5,11,20
+713,Nadar,Recreativa,3,4,20
+173,Futbol,Educativa,8,11,23
+312,Ir a la playa,Deportiva,6,8,27
+358,Patinar,Deportiva,7,-9,32
+218,Caminar,Recreativa,1,23,27
+276,Paseo en lancha,Educativa,2,26,37
+59,Esquiar,Deportiva,6,15,30
+799,Nadar,Educativa,8,10,29
+704,Ir a la playa,Cultural,8,-6,29
+502,Ir de compras,Cultural,2,30,31
+184,Treking,Deportiva,10,27,29
+146,Paseo en bicicleta,Recreativa,7,17,20
+937,Caminar,Deportiva,10,-6,23
+121,Ir de compras,Recreativa,3,1,22
+736,Futbol,Cultural,6,29,29
+326,Nadar,Cultural,10,2,38
+805,Futbol,Educativa,6,17,31
+708,Museo,Deportiva,5,14,23
+529,Bailar,Recreativa,10,30,27
+809,Futbol,Recreativa,4,10,40
+659,Basketbol,Cultural,7,6,31
+978,Ir de compras,Educativa,5,15,32
+233,Ir a la playa,Recreativa,6,14,30
+502,Ir de compras,Cultural,6,2,20
+831,Tenis,Recreativa,2,4,37
+71,Nadar,Educativa,3,26,28
+794,Patinar,Deportiva,5,24,39
+235,Surf,Educativa,7,8,22
+837,Pescar,Recreativa,10,-10,21
+770,Montar a caballo,Recreativa,1,14,23
+643,Patinar,Recreativa,6,19,22
+61,Montar a caballo,Educativa,2,-3,22
+533,Casino,Cultural,2,29,32
+766,Ir de compras,Deportiva,9,26,37
+688,Buceo,Cultural,9,6,26
+539,Ir a la playa,Cultural,5,16,37
+443,Basketbol,Deportiva,1,5,37
+210,Museo,Educativa,4,-3,37
+418,Montar a caballo,Recreativa,9,14,38
+285,Pescar,Cultural,5,3,31
+762,Parque de diversiones,Recreativa,8,7,35
+261,Ir de compras,Educativa,1,14,34
+644,Patinar,Cultural,6,3,31
+60,Tenis,Deportiva,1,24,25
+912,Surf,Recreativa,8,23,36
+317,Esquiar,Educativa,8,11,28
+437,Treking,Recreativa,4,18,34
+336,Ir de compras,Educativa,4,28,22
+973,Buceo,Recreativa,1,24,34
+916,Buceo,Educativa,5,-2,29
+86,Pescar,Educativa,8,5,24
+921,Buceo,Cultural,6,11,35
+453,Futbol,Deportiva,3,17,31
+210,Nadar,Cultural,9,20,37
+512,Paseo en bicicleta,Educativa,7,5,20
+62,Ir de compras,Cultural,3,21,36
+841,Museo,Educativa,6,3,31
+671,Pescar,Deportiva,10,-10,21
+931,Paseo en bicicleta,Recreativa,5,21,37
+844,Basketbol,Deportiva,3,15,30
+267,Ir de compras,Recreativa,5,-2,32
+826,Ir a la playa,Recreativa,6,-1,22
+735,Paseo en lancha,Educativa,4,-3,28
+271,Esquiar,Cultural,5,20,28
+700,Montar a caballo,Deportiva,2,19,39
+966,Esquiar,Cultural,7,-5,26
+840,Nadar,Educativa,1,-7,35
+575,Paseo en lancha,Educativa,10,-3,36
+834,Bailar,Cultural,4,23,31
+601,Museo,Recreativa,4,10,30
+458,Buceo,Recreativa,3,1,24
+615,Caminar,Deportiva,7,-1,36
+692,Futbol,Recreativa,2,17,25
+589,Montar a caballo,Recreativa,4,4,20
+634,Ir de compras,Deportiva,9,-8,21
+453,Basketbol,Recreativa,8,-8,22
+299,Buceo,Educativa,7,2,33
+319,Surf,Cultural,9,-3,33
