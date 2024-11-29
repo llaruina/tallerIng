@@ -1,0 +1,35 @@
+IdActivdadTipo;Actividad;TipoActividad
+1;Bailar;Recreativa
+2;Bailar;Deportiva
+3;Bailar;Educativa
+4;Basketbol;Recreativa
+5;Basketbol;Deportiva
+6;Buceo;Deportiva
+7;Buceo;Recreativa
+8;Buceo;Educativa
+9;Caminar;Deportiva
+10;Caminar;Recreativa
+11;Casino;Recreativa
+12;Esquiar;Deportiva
+13;Esquiar;Recreativa
+14;Esquiar;Educativa
+15;Futbol;Deportiva
+16;Futbol;Recreativa
+17;Futbol;Educativa
+18;Ir a la playa;Recreativa
+19;Ir de compras;Recreativa
+20;Montar a caballo;Recreativa
+21;Museo;Cultural
+22;Nadar;Recreativa
+23;Parque de diversiones;Recreativa
+24;Paseo en bicicleta;Recreativa
+25;Paseo en lancha;Recreativa
+26;Patinar;Recreativa
+27;Patinar;Deportiva
+28;Pescar;Recreativa
+29;Surf;Deportiva
+30;Surf;Recreativa
+31;Tenis;Deportiva
+32;Tenis;Recreativa
+33;Treking;Recreativa
+34;Treking;Deportiva
